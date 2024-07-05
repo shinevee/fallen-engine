@@ -65,7 +65,7 @@ static bool32 IsCurMapPokeCenter(void)
 
 static bool32 IsCurMapReloadLocation(void)
 {
-    return IsCurMapInLocationList(sSaveLocationReloadLocList);
+    
 }
 
 // Nulled out list. Unknown what this would have been.
